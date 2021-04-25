@@ -1,0 +1,8 @@
+node_modules/*
+src/data/credentials.txt
+src/data/hourly*
+src/data/daily*
+src/data/monthly*
+*.pyc
+package-lock.json
+pylog.txt
