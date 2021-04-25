@@ -16,3 +16,15 @@ Run npm install and build dll if asked to.
 npm start
 
 And that should be it.
+
+Example charts:
+
+<img src="./public/monthly.jpg" style="display:block;width:50%;height:50%;">
+
+<img src="./public/daily.jpg" style="display:block;width:50%;height:50%;">
+
+<img src="./public/hourly.jpg" style="display:block;width:50%;height:50%;">
+
+<img src="./public/weather.jpg" style="display:block;width:50%;height:50%;">
+
+<img src="./public/cost.jpg" style="display:block;width:50%;height:50%;">
